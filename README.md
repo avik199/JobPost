@@ -27,11 +27,3 @@ The **JobPost Backend Application** is a robust backend service built with **Spr
 - **API**: 
   - RESTful endpoints for job operations
 
-## Getting Started
-
-To get a local copy of this project up and running, follow these simple steps:
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
